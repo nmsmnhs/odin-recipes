@@ -1,5 +1,6 @@
 img {
-    width: 40rem;
+    width: 840px;
+    max-width: 90vw;
     height: auto;
 }
 body {
