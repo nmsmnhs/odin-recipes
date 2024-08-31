@@ -1,0 +1,11 @@
+img {
+    width: 640px;
+    max-width: 90vw;
+    height: auto;
+}
+body {
+    font-size: 150%;
+    position: relative;
+    left: 30px;
+    
+}
