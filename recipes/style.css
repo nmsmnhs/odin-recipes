@@ -4,19 +4,25 @@ img {
     height: auto;
 }
 body {
-    font-size: 150%;
+    font-size: 120%;
     position: relative;
     left: 30px;
+    font-family: Verdana, Tahoma, sans-serif;
 }
 .box {
-    width: 60vw;
-    margin: 50px;
-    
+    width: 45vw;
+    margin: 40px 20vw;
+    margin-right: 139px;
+    position: static;
     display: inline-block;
 }
 .contents {
     width: auto;
-    margin-left:auto;
-    margin-top:20px;
+    margin:auto;
+    margin-top:80px;
     display: inline-block;
+    position:fixed;
+}
+.contents * {
+    margin: 10px
 }
